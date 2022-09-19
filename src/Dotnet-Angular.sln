@@ -1,14 +1,14 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotnet-Angular.Web", "Dotnet-Angular.Web\Dotnet-Angular.Web.csproj", "{544D5C9B-EACD-45D8-AE3A-D3434646CC82}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotnet-Angular.Web", "Web\Dotnet-Angular.Web.csproj", "{544D5C9B-EACD-45D8-AE3A-D3434646CC82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotnet-Angular.Model", "Dotnet-Angular.Model\Dotnet-Angular.Model.csproj", "{9571D2C4-3CBB-4E9B-808A-EE44CCC3D7E1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotnet-Angular.Model", "Model\Dotnet-Angular.Model.csproj", "{9571D2C4-3CBB-4E9B-808A-EE44CCC3D7E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotnet-Angular.Application", "Dotnet-Angular.Application\Dotnet-Angular.Application.csproj", "{7EE6C82B-E45E-4662-BF53-866FE1E479AB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotnet-Angular.Application", "Application\Dotnet-Angular.Application.csproj", "{7EE6C82B-E45E-4662-BF53-866FE1E479AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotnet-Angular.Database", "Dotnet-Angular.Database\Dotnet-Angular.Database.csproj", "{5DEB8AD6-5215-4742-8789-D21F33410854}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotnet-Angular.Database", "Database\Dotnet-Angular.Database.csproj", "{5DEB8AD6-5215-4742-8789-D21F33410854}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotnet-Angular.Domain", "Dotnet-Angular.Domain\Dotnet-Angular.Domain.csproj", "{29361365-9FAF-435B-B71F-1D0C93F57911}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotnet-Angular.Domain", "Domain\Dotnet-Angular.Domain.csproj", "{29361365-9FAF-435B-B71F-1D0C93F57911}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

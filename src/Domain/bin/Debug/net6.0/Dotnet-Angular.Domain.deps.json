@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Dotnet-Angular.Domain/1.0.0": {
+        "dependencies": {
+          "DotNetCore.Domain": "16.72.0"
+        },
+        "runtime": {
+          "Dotnet-Angular.Domain.dll": {}
+        }
+      },
+      "DotNetCore.Domain/16.72.0": {
+        "runtime": {
+          "lib/net6.0/DotNetCore.Domain.dll": {
+            "assemblyVersion": "16.72.0.0",
+            "fileVersion": "16.72.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dotnet-Angular.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DotNetCore.Domain/16.72.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-EnrxrFTg6r+HyZRf8WFEWW7FM6Av2w4VGTb375+lpHxxfWfNXuRy4n9+nBC1nz8VgDfIbHNzryXd1Pgay83DUg==",
+      "path": "dotnetcore.domain/16.72.0",
+      "hashPath": "dotnetcore.domain.16.72.0.nupkg.sha512"
+    }
+  }
+}
