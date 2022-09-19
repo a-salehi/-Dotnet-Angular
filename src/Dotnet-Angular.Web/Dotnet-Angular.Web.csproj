@@ -14,4 +14,15 @@
       <Folder Include="Frontend\src\app\services" />
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Dotnet-Angular.Application\Dotnet-Angular.Application.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="DotNetCore.AspNetCore" Version="16.72.0" />
+      <PackageReference Include="DotNetCore.IoC" Version="16.72.0" />
+      <PackageReference Include="DotNetCore.Logging" Version="16.72.0" />
+      <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+    </ItemGroup>
+
 </Project>

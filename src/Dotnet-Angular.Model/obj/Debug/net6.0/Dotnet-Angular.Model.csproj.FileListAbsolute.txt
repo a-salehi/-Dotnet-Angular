@@ -1,0 +1,12 @@
+C:\Users\amirh\source\repos\Dotnet-Angular\src\Dotnet-Angular.Model\bin\Debug\net6.0\Dotnet_Angular.Model.deps.json
+C:\Users\amirh\source\repos\Dotnet-Angular\src\Dotnet-Angular.Model\bin\Debug\net6.0\Dotnet_Angular.Model.dll
+C:\Users\amirh\source\repos\Dotnet-Angular\src\Dotnet-Angular.Model\bin\Debug\net6.0\ref\Dotnet_Angular.Model.dll
+C:\Users\amirh\source\repos\Dotnet-Angular\src\Dotnet-Angular.Model\bin\Debug\net6.0\Dotnet_Angular.Model.pdb
+C:\Users\amirh\source\repos\Dotnet-Angular\src\Dotnet-Angular.Model\obj\Debug\net6.0\Dotnet-Angular.Model.csproj.AssemblyReference.cache
+C:\Users\amirh\source\repos\Dotnet-Angular\src\Dotnet-Angular.Model\obj\Debug\net6.0\Dotnet-Angular.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amirh\source\repos\Dotnet-Angular\src\Dotnet-Angular.Model\obj\Debug\net6.0\Dotnet-Angular.Model.AssemblyInfoInputs.cache
+C:\Users\amirh\source\repos\Dotnet-Angular\src\Dotnet-Angular.Model\obj\Debug\net6.0\Dotnet-Angular.Model.AssemblyInfo.cs
+C:\Users\amirh\source\repos\Dotnet-Angular\src\Dotnet-Angular.Model\obj\Debug\net6.0\Dotnet-Angular.Model.csproj.CoreCompileInputs.cache
+C:\Users\amirh\source\repos\Dotnet-Angular\src\Dotnet-Angular.Model\obj\Debug\net6.0\Dotnet_Angular.Model.dll
+C:\Users\amirh\source\repos\Dotnet-Angular\src\Dotnet-Angular.Model\obj\Debug\net6.0\ref\Dotnet_Angular.Model.dll
+C:\Users\amirh\source\repos\Dotnet-Angular\src\Dotnet-Angular.Model\obj\Debug\net6.0\Dotnet_Angular.Model.pdb

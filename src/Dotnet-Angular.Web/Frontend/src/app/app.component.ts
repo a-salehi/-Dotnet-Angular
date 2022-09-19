@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 import {UserModel} from "./models/user.model";
 import {AppUserService} from "./services/user.service";
+import {Observable} from "rxjs";
 
 @Component({
   selector: 'app-root',
@@ -15,7 +16,7 @@ export class AppComponent {
   }
 
   ngOnInit() : void{
-    this.users = this.appUserService.getUsers();
+    this.appUserService.list().subscribe((result : UserModel[])=>(this.users = result));
     console.log(this.users);
   }
 }
