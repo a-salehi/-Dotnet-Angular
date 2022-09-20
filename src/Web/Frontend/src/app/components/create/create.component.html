@@ -1,0 +1,27 @@
+<div class="container">
+  <legend>Create Item</legend>
+  <form class="needs-validation">
+    <div class="col-4">
+        <label for="txtFirstName" class="form-label">FirstName</label>
+        <input type="text" name="firstName" [(ngModel)]="userForm.firstName" class="form-control" id="txtFirstName"
+               required/>
+      <div class="invalid-feedback">Please fill out this field.</div>
+    </div>
+    <div class="col-4">
+      <label for="txtLastName" class="form-label">LastName</label>
+      <input type="text" name="lastName" [(ngModel)]="userForm.lastName" class="form-control" id="txtLastName" required/>
+      <div class="invalid-feedback">Please fill out this field.</div>
+    </div>
+    <div class="col-4">
+      <label for="txtPlace" class="form-label">Place</label>
+      <input type="text" name="place" [(ngModel)]="userForm.place" class="form-control" id="txtPlace" required/>
+      <div class="invalid-feedback">Please fill out this field.</div>
+    </div>
+    <div class="col-4">
+      <label for="txtEmail" class="form-label">Email</label>
+      <input type="email" name="email" [(ngModel)]="userForm.email" class="form-control" id="txtEmail" required/>
+      <div class="invalid-feedback">Please fill out this field.</div>
+    </div>
+    <button type="button" (click)="create()" class="btn btn-primary mt-2">Create</button>
+  </form>
+</div>

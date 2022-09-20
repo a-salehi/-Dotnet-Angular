@@ -9,7 +9,6 @@
 
     <ItemGroup>
       <Folder Include="Frontend" />
-      <Folder Include="Frontend\src\app\components" />
       <Folder Include="Frontend\src\app\models" />
       <Folder Include="Frontend\src\app\services" />
     </ItemGroup>
